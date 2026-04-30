@@ -121,8 +121,7 @@ Visualization + Insights
 
 - Python / TypeScript
 - RDKit  
-- React / Vite
-- Google AI Studio (Gemini)  
+- React / Vite  
 - Framer Motion / Lucide React
 
 ---
@@ -197,4 +196,3 @@ Optimal drugs = not dominated by others
 - Improve models  
 - Add datasets  
 ---
-*Built with ❤️ in AI Studio*
